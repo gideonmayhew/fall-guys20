@@ -104,6 +104,11 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "tile21": {
+        "data": "hwQQABAAAAC7u7u7u7u7uwsAAAAAAACwCwAAAAAAALALAAAAAAAAsAsAAAAAAACwCwAAAAAAALALAAC7CwAAsAsAALsLAACwCwAAuwsAALALAAAAAAAAsAsAAAAAAACwCwAAAAAAALALAAAAAAAAsAsAAAAAAACwCwAAAAAAALC7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

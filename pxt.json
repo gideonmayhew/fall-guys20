@@ -6,7 +6,8 @@
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.9.2",
         "Timers": "github:microsoft/arcade-timers#v1.0.1",
-        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0"
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
