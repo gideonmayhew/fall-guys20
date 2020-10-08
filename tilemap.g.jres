@@ -109,6 +109,11 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "tile22": {
+        "data": "hwQQABAAAAD//1VV//9VVf//VVX//1VV//9VVf//VVX//1VV//9VVVVV//9VVf//VVX//1VV//9VVf//VVX//1VV//9VVf////9VVf//VVX//1VV//9VVf//VVX//1VV//9VVf//VVVVVf//VVX//1VV//9VVf//VVX//1VV//9VVf//VVX//w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
